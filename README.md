@@ -1,9 +1,9 @@
 # linux-deployment
 
 ## details
-server ip 18.197.198.109
-port 2200
-[website url](http://18.197.198.109)
+server ip 35.180.123.101
+port 22
+[website url](http://35.180.123.101/)
 
 ## things made
 -Update all currently installed packages
@@ -14,7 +14,7 @@ port 2200
 
 -Give the grader the permission to sudo
 
--Change the SSH port from 22 to 2200
+
 
 -Configure the Uncomplicated Firewall (UFW) to only allow incoming connections for SSH (port 2200), HTTP (port 80), and NTP (port 123)
 
@@ -24,7 +24,6 @@ port 2200
 
 -Install and configure PostgreSQL:
 
--Do not allow remote connections
 
 -Create a new user named catalog that has limited permissions to your catalog application database
 
