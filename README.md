@@ -1,9 +1,9 @@
 # linux-deployment
 
 ## details
-server ip 35.180.123.101
-port 22
-[website url](http://35.180.123.101/)
+server ip 35.180.23.124
+port 2200
+[website url](http://35.180.23.124/)
 
 ## things made
 -Update all currently installed packages
@@ -33,3 +33,7 @@ port 22
 /home/grader/.ssh/authorized_keys
 
 key will be provided in submission notes
+
+Third-party resources:
+[website url](http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/)
+All other problems were solved from [website url](http://udacity.com) studenthub forum
