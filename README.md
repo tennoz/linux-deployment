@@ -33,8 +33,8 @@ and NTP (port 123)
 
 
 -Create a new database user named catalog that has limited permissions
-
-to your catalog application database (doesn't have all privileges)
+ 
+(doesn't have all privileges) to the catalog application database.
 
 -Install git, clone and setup your Catalog App project
 
