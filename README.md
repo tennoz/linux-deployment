@@ -32,7 +32,9 @@ and NTP (port 123)
 -Install and configure PostgreSQL:
 
 
--Create a new user named catalog that has limited permissions to your catalog application database
+-Create a new database user named catalog that has limited permissions
+
+to your catalog application database (doesn't have all privileges)
 
 -Install git, clone and setup your Catalog App project
 
