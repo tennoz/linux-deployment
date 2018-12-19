@@ -16,9 +16,14 @@ port 2200
 
 
 
--Configure the Uncomplicated Firewall (UFW) to only allow incoming connections for SSH (port 2200), 
+-Configure the Uncomplicated Firewall (UFW) to only allow incoming connections for
 
-HTTP (port 80), and NTP (port 123)
+SSH (port 2200), 
+
+HTTP (port 80),
+
+and NTP (port 123)
+
 
 -Configure the local timezone to UTC
 
